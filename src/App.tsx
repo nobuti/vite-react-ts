@@ -1,6 +1,6 @@
 import HelloWorld from "~/components/HelloWorld/HelloWorld";
 
-import styles from "./App.module.css";
+import styles from "~/App.module.css";
 
 export default function App() {
   return (
